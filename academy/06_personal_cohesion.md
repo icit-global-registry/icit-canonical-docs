@@ -1,4 +1,4 @@
-# 💎 ICIT ACADEMY // MODULE 06: PERSONAL COHESION (P3 ENGINE CALIBRATION)
+# 🏛️ ICIT ACADEMY // MODULE 06: PERSONAL COHESION (P3 ENGINE CALIBRATION)
 **Systemic Remediation Track:** Time-Delta Key Cadence Stabilization and Focus-State Equilibrium
 
 ### 🔮 Telemetry Variance Diagnosis
