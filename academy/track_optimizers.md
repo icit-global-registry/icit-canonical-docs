@@ -1,4 +1,13 @@
-# ⚖️ ICIT ACADEMY // MODULE 03: ETHICAL INTELLIGENCE
+# 🏛️ ICIT ACADEMY 
+
+**Certification Tier:** ICIT IND CERT T2 / ICIT WKF CERT T2
+
+**Designation:** Certified CRYPTO & CYBER SPECIALIST (C-CCS)	
+
+**Governing Entity:** ICIT — Integrous Cohesion for Intelligent Technologies 
+
+**Remediation Domain:** Structural Minimalism, Space Conservation, and Geometric State Harmony.
+
 **Systemic Remediation Track:** Resource Exploitation Elimination and Harmonious Data Stewardship
 
 ### 🔮 Telemetry Variance Diagnosis
