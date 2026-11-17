@@ -1,4 +1,4 @@
-# The Iweology Consciousness & Evolution Matrix
+# The Iweology Evolution Matrix
 ![Iweology Matrix](IWEOLOGY%20MATRIX.jpeg.jpg)
 
 ### A Sovereign Framework for Human Calibration // The Iweology Project
@@ -12,14 +12,14 @@ This document establishes the foundational consciousness mapping that anchors th
 The evolutionary spectrum is structurally divided into three distinct operational basins:
 
 *   **TOP BASIN // Light Energy / High Vibration**
-    *   *Cognitive Mode:* Inductive Intelligence.
-    *   *Ecosystem State:* Unified cosmic awareness, profound ethical integration, and human-first engineering alignment.
+    *   **Cognitive Mode:** Inductive Intelligence.
+    *   **Ecosystem State:** Unified cosmic awareness, profound ethical integration, and human-first engineering alignment.
 *   **MIDDLE BASIN // Lighter Energy / Higher Vibration**
-    *   *Cognitive Mode:* Adductive Reasoning.
-    *   *Ecosystem State:* The developmental buffer zone governing systemic accountability, community healing, and structural pivot mapping.
+    *   **Cognitive Mode:** Adductive Reasoning.
+    *   **Ecosystem State:** The developmental buffer zone governing systemic accountability, community healing, and structural pivot mapping.
 *   **BOTTOM BASIN // Dense Energy / Low Vibration**
-    *   *Cognitive Mode:* Deductive Intellect.
-    *   *Ecosystem State:* The "knowledge-only" ego-matrix (Imeology) focused entirely on raw linear applications, transactional power, survival, and defensive containment.
+    *   **Cognitive Mode:** Deductive Intellect.
+    *   **Ecosystem State:** The "knowledge-only" ego-matrix (Imeology) focused entirely on raw linear applications, transactional power, survival, and defensive containment.
 
 ---
 
