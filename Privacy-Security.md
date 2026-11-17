@@ -1,4 +1,4 @@
-# ICIT Security Framework (Individual Engineer Specification)
+# 🏛️ ICIT Security Framework (Individual Engineer Specification)
 ### Cryptographic & Operational Isolation Standards // The Iweology Project
 
 This document defines the strict cryptographic and operational security standards required for individual engineers, standalone developers, and decentralized system architects operating under the ICIT governance protocol. 
