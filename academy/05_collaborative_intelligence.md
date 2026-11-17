@@ -1,4 +1,4 @@
-# 📝 ICIT ACADEMY // MODULE 05: COLLABORATIVE INTELLIGENCE
+# 🏛️ ICIT ACADEMY // MODULE 05: COLLABORATIVE INTELLIGENCE
 **Systemic Remediation Track:** Semantic Git Provenance, Documentation Rigour, and Team Cohesion
 
 ### 🔮 Telemetry Variance Diagnosis
