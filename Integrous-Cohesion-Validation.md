@@ -1,4 +1,4 @@
-# ICIT Integrous Cohesion Validation Engine (UFIS Core)
+# 🏛️ ICIT Integrous Cohesion Validation Engine (UFIS Core)
 ### Non-Linear Mathematical Framework // Iweo Council for Intelligent Technologies
 
 This document establishes the unalterable, non-linear mathematical framework utilized by the Iweo Council for Intelligent Technologies (ICIT) to validate, score, and certify system architectural nodes and individual engineering talent. 
