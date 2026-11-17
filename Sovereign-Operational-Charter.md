@@ -1,6 +1,6 @@
-# ICIT Sovereign Operational Charter
+# 🏛️ ICIT Sovereign Operational Charter
 
-This document serves as the constitutional charter and institutional proof of authority for the Iweo Council for Intelligent Technologies (ICIT). 
+This document serves as the constitutional charter and institutional proof of authority for the Integrous Cohesion for Intelligent Technologies (ICIT). 
 
 ICIT operates strictly as an independent, authoritative sovereign governance mechanism. It rejects reactive, lower-basin political compromises, old-world regulatory structures, and the administrative models of legacy non-profit organizations. ICIT asserts that governance must occur objectively through the mathematical verification of human and computational network nodes.
 
