@@ -1,4 +1,11 @@
-# 🛡️ ICIT ACADEMY // MODULE 04: SECURITY INTELLIGENCE
+# 🏛️ ICIT ACADEMY 
+
+**Certification Tier:** ICIT IND CERT T3 / ICIT WKF CERT T3
+
+**Designation:** Certified CRYPTO & CYBER SPECIALIST (C-CCS)
+
+**Governing Entity:** ICIT — Integrous Cohesion for Intelligent Technologies 
+
 **Systemic Remediation Track:** Zero-Trust Namespacing and Automated Boundary Defense
 
 ### 🔮 Telemetry Variance Diagnosis
