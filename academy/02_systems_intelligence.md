@@ -1,4 +1,4 @@
-# 🌀 ICIT ACADEMY // MODULE 02: SYSTEMS INTELLIGENCE
+# 🏛️ ICIT ACADEMY // MODULE 02: SYSTEMS INTELLIGENCE
 **Systemic Remediation Track:** Distributed Behavior, Resource Insulation, and Turbulence Smoothing
 
 ### 🔮 Telemetry Variance Diagnosis
