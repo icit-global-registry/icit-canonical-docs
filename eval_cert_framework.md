@@ -15,7 +15,7 @@ $$\sum_{n=1}^{k} \left[ D_i(n) + I_i(C_k - n) \right] \rightarrow C_k^k \quad \f
 *   **$I_i(C_k - n)$** — Inductive Intuitive Knowingness *(Top-Basin / Coherence Vector Score $[0-10]$)*
 *   **$C_k$** — Dynamically rolling Polymorphic Conservation Target assigned uniquely per testing sandbox instance.
 
-To mitigate AI-written code and left-brain "grinding" hacks, a candidate must prove complete **Cohesion** across both technical vectors and the 3-Gate P3 Human Capital Matrix, achieving an absolute score threshold of **Total Calibration $\ge$ 16/20** to unlock automated entry into the private `IGI` enterprise procurement registry.
+To mitigate AI-written code and left-brain "grinding" hacks, a candidate must prove complete **Cohesion** across both technical vectors and the 3-Gate P3 Human Capital Matrix, achieving an absolute score threshold of **Total Calibration $\ge$ 16/20** to unlock automated entry into the Enterprise Procurement Registry.
 
 ---
 
