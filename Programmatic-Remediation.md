@@ -1,9 +1,9 @@
-# ICIT Programmatic Remediation Architecture
-## A Sovereign Progression to Certification Excellence // The Iweology Project
+# 🏛️ ICIT Programmatic Remediation Architecture
+## A Sovereign Progression to Certification Excellence 
 
 The technical landscape is fractured by systems that prioritize superficial credentials over deep technical cohesion and aligned human intentions. Within the ICIT framework, an initial uncohesive assessment outcome is never treated as a terminal failure or a commercial dead-end. Instead, it is executed as a vital calibration junction. 
 
-The **ICIT Mastery Bundle** exists as an inseparable programmatic recovery bridge. It is engineered to realign the independent professional’s technical execution and metanoic intentions simultaneously, ensuring that those who architect the nervous system of our future remain fully anchored to systemic resilience, human welfare, and absolute trust.
+The **ICIT Remediation Bundle** exists as an inseparable programmatic recovery bridge. It is engineered to realign the independent professional’s technical execution and metanoic intentions simultaneously, ensuring that those who architect the nervous system of our future remain fully anchored to systemic resilience, human welfare, and absolute trust.
 
 ---
 
@@ -51,12 +51,15 @@ At hour 168, the active remediation labs shut down, and the candidate's profile 
 
 ---
 
-## 4. Financial Accommodation Natively Configured via Paddle MoR
-To ensure absolute career progression and accessibility for independent professionals self-funding their path, the platform integrates structural financial assistance [Paddle Checkout].
+## 4. Financial Accommodation & Global Parity via Stripe Checkout
 
+To ensure equitable career progression and global accessibility for independent professionals self-funding their path, the platform integrates deterministic financial parity and structured installment support natively through Stripe Checkout.
+
+* **Geo-IP Purchasing Power Parity (PPP):** The ICIT gateway automatically detects the candidate's geographic region at checkout and applies deterministic PPP adjustments (30%, 40%, or 70% parity calibration) so independent engineers across emerging economies have equal access to certification.
 * **Restricted BNPL Availability:** Buy Now, Pay Later (BNPL) installment structures are **authorized exclusively for the Remediation Track and subsequent reattempt passes**. Standard initial exam entries and corporate registry access subscriptions are explicitly barred from installment options to prevent corporate exploitation.
-* **Dynamic Regional Routing:** Handled through **Paddle MoR**, the checkout engine dynamically checks the candidate’s local region and surfaces interest-free installment options (such as *PayPal Pay in 4*, *Affirm*, or localized equivalent structures) [Which payment methods do you support? - Help Center - Paddle].
-* **Absolute Default Protection:** The credit transaction remains strictly between the candidate and the localized financial provider. ICIT receives 100% of the asset valuation upfront from the credit issuer—instantly activating the candidate's 7-day sprint while removing all debt management and collection risks from the Authority’s books.
+* **Dynamic Regional Payment Routing:** Handled natively through Stripe Checkout, the payment engine dynamically checks the candidate's local region and surfaces localized payment rails alongside interest-free installment options (such as Affirm, Klarna, or regional equivalents where eligible).
+* **Absolute Default Protection:** Any installment credit transaction remains strictly between the candidate and the localized financial provider. ICIT receives 100% of the calibrated valuation upfront from the processor—instantly activating the candidate's 7-day sprint while removing all debt management and collection risks from the Authority's books.
 
 ---
-*We do not negotiate. We do not discount. We calibrate the minds that build the future.*
+
+*We do not negotiate. We calibrate global access through deterministic Purchasing Power Parity for the minds that build the future.*
