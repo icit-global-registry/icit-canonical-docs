@@ -1,4 +1,5 @@
-# ICIT Universal P3 Evaluation Matrix
+# 🏛️ICIT Universal P3 Evaluation Matrix
+
 ## Gate I: The Execution Metric // Technical Sovereignty
 
 Gate I serves as the primary technical filtration layer within the isolated sandbox architecture. It evaluates a candidate's real-time programmatic execution across three core behavioral and performance vectors. 
