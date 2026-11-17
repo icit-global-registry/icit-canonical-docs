@@ -1,4 +1,4 @@
-# 🛡️ ICIT ACADEMY // MODULE 04: SECURITY INTELLIGENCE
+# 🏛️ ICIT ACADEMY // MODULE 04: SECURITY INTELLIGENCE
 **Systemic Remediation Track:** Zero-Trust Namespacing and Automated Boundary Defense
 
 ### 🔮 Telemetry Variance Diagnosis
