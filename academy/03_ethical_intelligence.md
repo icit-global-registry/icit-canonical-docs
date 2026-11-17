@@ -1,4 +1,4 @@
-# ⚖️ ICIT ACADEMY // MODULE 03: ETHICAL INTELLIGENCE
+# 🏛️ ICIT ACADEMY // MODULE 03: ETHICAL INTELLIGENCE
 **Systemic Remediation Track:** Resource Exploitation Elimination and Harmonious Data Stewardship
 
 ### 🔮 Telemetry Variance Diagnosis
