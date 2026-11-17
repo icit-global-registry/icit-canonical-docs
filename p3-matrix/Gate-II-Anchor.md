@@ -1,4 +1,5 @@
-# ICIT Universal P3 Evaluation Matrix
+# 🏛️ ICIT Universal P3 Evaluation Matrix
+
 ## Gate II: The Structural Anchor Metric // Technical Integrity
 
 Gate II assesses a candidate's structural endurance and ethical consistency inside the containerized execution environment. It maps behavioral data telemetry across three baseline vectors to verify that an architect's code generation routines are driven by persistent foresight rather than fragmented, short-term hacks.
