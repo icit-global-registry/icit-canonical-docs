@@ -1,5 +1,5 @@
 # The Iweology Consciousness & Evolution Matrix
-![Iweology Consciousness Matrix](iweology_matrix.jpg)
+![Iweology Matrix](IWEOLOGY_MATRIX.jpeg.jpg) 
 
 ### A Sovereign Framework for Human Calibration // The Iweology Project
 
