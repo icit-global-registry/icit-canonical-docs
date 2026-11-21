@@ -1,6 +1,6 @@
 # 🏛️ ICIT ACADEMY 
 
-# TRACK 4: Certified PERIMETER DEFENCE (C-TSD)
+# 🛡️ TRACK 4: Certified PERIMETER DEFENCE (C-TSD)
 * **Tier Designation:** `ICIT IND CERT T4 / ICIT WKF CERT T4`
 * **Governing Standard:** ICIT — Integrous Cohesion for Intelligent Technologies (Iweo Global Inc.)
 * **Remediation & Mastery Domain:** Zero-Delay Sentinel Boundaries & Anomaly Auto-Neutralization
