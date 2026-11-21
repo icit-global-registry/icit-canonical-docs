@@ -1,6 +1,6 @@
 # 🏛️ ICIT ACADEMY 
 
-# TRACK 2: Certified MATH KERNEL (C-SME)
+# ⚙️ TRACK 2: Certified MATH KERNEL (C-SME)
 * **Tier Designation:** `ICIT IND CERT T2 / ICIT WKF CERT T2`
 * **Governing Standard:** ICIT — Integrous Cohesion for Intelligent Technologies (Iweo Global Inc.)
 * **Remediation & Mastery Domain:** Loop Predictability, Memory Insulation Physics & Velocity Delta Damping
