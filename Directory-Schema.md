@@ -1,5 +1,5 @@
 # 🏛️ICIT Global Enterprise Procurement Directory Schema
-### Anonymized High-Signal Talent Verification 
+### ANONYMISED HIGH-SIGNAL TALENT VERIFICATION 
 
 To eliminate traditional hiring biases, systemic talent exploitation, and the administrative "noise" of unverified resumes, the ICIT Enterprise Procurement Directory enforces a Dual-State Identity Architecture. 
 
