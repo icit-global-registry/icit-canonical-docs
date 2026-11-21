@@ -1,5 +1,5 @@
 # 🏛️ICIT Universal P3 Evaluation Matrix
-## Gate III: The Alignment & Integration Metric // Collective Cohesion
+## 🌐 GATE III: THE ALIGNMENT & INTEGRATION METRIC // COLLECTIVE COHESION
 
 Gate III serves as the definitive structural alignment layer within the ICIT architecture. It bridges the gap between mechanical execution and systemic intent, ensuring that computing power is guided by human wisdom, personal ethical balance, and a commitment to collective wellbeing. 
 
