@@ -1,6 +1,6 @@
 # 🏛️ ICIT ACADEMY 
 
-# TRACK 1: Certified INFRASTRUCTURE (C-ISA)
+# 🛠️ TRACK 1: Certified INFRASTRUCTURE (C-ISA)
 * **Tier Designation:** `ICIT IND CERT T1 / ICIT WKF CERT T1`
 * **Governing Standard:** ICIT — Integrous Cohesion for Intelligent Technologies (Iweo Global Inc.)
 * **Remediation & Mastery Domain:** Structural Minimalism, Space Conservation & Geometric State Harmony
