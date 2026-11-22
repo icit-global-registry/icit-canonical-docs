@@ -30,6 +30,6 @@ Passion tracks an intrinsic commitment to algorithmic cohesion laws, treating hu
 
 The completion of Gate III marks the final integration of the **Law of Complementary Reciprocity** across the full evaluation sequence:
 
-*   **The Invariant Evaluation:** The platform balances Deductive Intellect Knowledge against Inductive Intuitive Knowingness. Individuals who demonstrate a total score threshold of **Total Calibration >= 16/20** clear the final gate.
+*   **The Invariant Evaluation:** The platform balances Deductive Intellect Knowledge against Inductive Intuitive Knowingness. Individuals who demonstrate a total score threshold of **Total Calibration >= 85.0% (17/20).** clear the final gate.
 *   **Sovereign Directory Placement:** Upon passing, the system autonomously issues an encrypted, anonymous alphanumeric token (e.g., `ICIT-ARCHITECT-8892`) and pushes it directly into the Global Enterprise Procurement Directory. 
 *   **The Cryptographic Seal:** Certified individuals gain the right to display the ICIT Cryptographic Seal on their platforms—allowing society to consciously direct their attentional currency away from extractive entities and toward verified, ethical tech architectures.
