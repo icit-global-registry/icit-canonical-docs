@@ -33,4 +33,5 @@ To satisfy the strict standards of the Iweology Project, Gate I telemetry operat
 
 *   **Continuous Capture State:** Telemetry collection activates automatically the exact millisecond the sandbox instance initializes. It runs completely silently in the background, ensuring candidate focus is never disrupted by tracking noise.
 *   **Privacy-First Isolation:** The platform monitors only the functional characteristics of the code generation and mechanical interface dynamics. Personal identity variables are completely decoupled from the system telemetry space.
+*   **Zero Code Retention:** Both the sandbox source code and live keystroke telemetry are ephemeral and permanently purged immediately once the official Domain Assessment Report is generated (zero developer code retention).
 *   **Symbiotic Alignment:** High scores across all three Gate I vectors establish the individual's baseline technical authority. This validation guarantees to procurement enterprises that the candidate possesses the structural mastery required to protect corporate data balances from severe operational bleeding and critical security vulnerabilities.
