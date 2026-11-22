@@ -15,7 +15,7 @@ $$\sum_{n=1}^{k} \left[ D_i(n) + I_i(C_k - n) \right] \rightarrow C_k^k \quad \f
 *   **$I_i(C_k - n)$** — Inductive Intuitive Knowingness *(Top-Basin / Coherence Vector Score $[0-10]$)*
 *   **$C_k$** — Dynamically rolling Polymorphic Conservation Target assigned uniquely per testing sandbox instance.
 
-To mitigate AI-written code and left-brain "grinding" hacks, a candidate must prove complete **Cohesion** across both technical vectors and the 3-Gate P3 Human Capital Matrix, achieving an absolute score threshold of **Total Calibration $\ge$ 16/20** to unlock automated entry into the Enterprise Procurement Registry.
+To mitigate AI-written code and left-brain "grinding" hacks, a candidate must prove complete **Cohesion** across both technical vectors and the 3-Gate P3 Human Capital Matrix, achieving an absolute score threshold of **Total Calibration $\ge$ 17/20** to unlock automated entry into the Enterprise Procurement Registry.
 
 ---
 
@@ -24,10 +24,10 @@ To mitigate AI-written code and left-brain "grinding" hacks, a candidate must pr
 ```mermaid
 graph TD
 %% 1. Structural Connections (Ordered T1 -> T4 Left to Right)
-IGI[IWEO Global Inc. — ICIT] --> T1[Track 1: Infrastructure <br> C-ISA]
-IGI --> T2[Track 2: Math Kernel <br> C-SME]
-IGI --> T3[Track 3: Crypto & Cyber Specialist <br> C-CCS]
-IGI --> T4[Track 4: Perimeter Defence <br> C-TSD]
+ICIT --> T1[Track 1: Infrastructure <br> C-ISA]
+ICIT --> T2[Track 2: Math Kernel <br> C-SME]
+ICIT --> T3[Track 3: Crypto & Cyber Specialist <br> C-CCS]
+ICIT --> T4[Track 4: Perimeter Defence <br> C-TSD]
 
 %% Track 1 Evaluation Domains (Infrastructure)
 T1 --> T1_A["Domain A: Architecture<br><b>C-ISA (Arch)</b><br>Infrastructure Systems Architecture"]
