@@ -19,7 +19,7 @@ Within the **Integrous Cohesion for Intelligent Technologies (ICIT)** Unified Fi
 | :--- | :--- | :--- | :--- |
 | **ISA-01** | **Spatial Call-Tree Conservation** | Pure, balanced execution graphs with zero redundant middleware wrappers or spatial memory leakage | **30%** |
 | **ISA-02** | **Geometric State Harmony** | Native boundary-parameter equilibrium (`M + I = 10.00` within `0.01` tolerance) without reactive `try-catch` patching | **30%** |
-| **ISA-03** | **1.0-Delta Inertial Braking** | Programmatic step-delta boundary enforcement triggering `HTTP 422` / `ValueError` on velocity spikes `|Δm| > 1.00` | **25%** |
+| **ISA-03** | **1.0-Delta Inertial Braking** | Programmatic step-delta boundary enforcement triggering `HTTP 422` / `ValueError` on velocity spikes `abs(Δm) > 1.00` | **25%** |
 | **ISA-04** | **P3 Behavioural & Metanoic Cohesion** | Test-first commit sequence, calm keystroke cadence stability, and sovereign architectural reflection | **15%** |
 
 ---
