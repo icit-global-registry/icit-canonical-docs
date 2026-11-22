@@ -18,6 +18,7 @@ An independent engineering node must maintain total insulation from external tra
 ### # 2. Zero-Retention Network Boundary (Local Workspace)
 *   **Volatile Isolation:** All local code compilation, vulnerability scanning, and testing workflows must run entirely within custom-allocated, zero-retention memory partitions (RAM).
 *   **The Anti-Leak Rule:** No unencrypted data context, diagnostic logs, or raw telemetry variables may be written to a persistent hard drive space. This architecture protects your localized workspace from automated background scraping or accidental persistent data leakage.
+*   **Zero Code Rentention:** Both the sandbox source code and live keystroke telemetry are ephemeral and permanently purged immediately once the official Domain Assessment Report is generated (zero developer code retention).
 
 ---
 
