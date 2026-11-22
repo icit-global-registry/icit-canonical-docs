@@ -1,6 +1,6 @@
 # 🏛️ ICIT ACADEMY 
 
-# 🔐 TRACK 3: Certified CRYPTO & CYBER SPECIALIST (C-CCS)
+# 🔐 TRACK 3: Certified CRYPTO & CYBER SPECIALIST (C-CCS) 
 * **Tier Designation:** `ICIT IND CERT T3 / ICIT WKF CERT T3`
 * **Governing Standard:** ICIT — Integrous Cohesion for Intelligent Technologies (Iweo Global Inc.)
 * **Remediation & Mastery Domain:** Cryptographic Determinism, Zero-Trust Namespacing & Automated Boundary Defense
