@@ -18,7 +18,7 @@ The remediation infrastructure triggers programmatically based on the precise tr
 * **Remediation Focus:** Aligning algorithmic primitives, low-level kernel performance adjustments, and data-science logic optimization [GIAC Certifications].
 * **Technical Capacity:** High-performance computing array clusters and cryptographic testing environments.
 
-### 🟪 Elite Tier: Crypto & Cyber Specialist (C-CCS) // Threat Interdiction
+### 🟪 Track 3: Crypto & Cyber Specialist (C-CCS) // Threat Interdiction
 * **Remediation Focus:** Re-calibrating protocol-level security structures, zero-knowledge verification frameworks, and custom threat mitigation strategies.
 * **Technical Capacity:** Multi-layered protocol security simulation sandboxes.
 
@@ -38,7 +38,7 @@ To prevent candidates from prioritizing raw code performance over ethical alignm
 
 ---
 
-## 3. Operational Guardrails & The Time-Locked Vault
+## 3. Operational Guardrails 
 
 ### 🔒 Programmatic Access Restrictions
 The Call-to-Action (CTA) link to acquire a Remediation Bundle is completely hidden from public pages and cannot be purchased as a standalone training course. It renders **exclusively within a candidate's secure private outcome report** only if the backend state machine logs an uncohesive status.
@@ -46,8 +46,12 @@ The Call-to-Action (CTA) link to acquire a Remediation Bundle is completely hidd
 ### ⏳ The 7-Day Precision Sprint
 Access to the technical sandbox and the P3 alignment module is valid for a strict window of **exactly seven (7) days (168 hours) ONLY**. This intense time boundary eliminates casual shortcuts, enforces absolute discipline, and maintains learning momentum.
 
-### 🗄️ The 30-Day Post-Remediation Exam Vault
-At hour 168, the active remediation labs shut down, and the candidate's profile transitions to the `REMEDIATION_COMPLETE_PENDING_EXAM` state. To protect the candidate from immediate cognitive and financial pressure, the platform opens a **30-day structural breathing window**, allowing them to choose the optimal moment within that month to trigger their automated recertification exam.
+### 🎓 Post-Remediation Recertification Transition
+Upon completing the **7-Day Remediation Training & P3 Alignment Sprint**, candidates transition directly into their **Recertification Examination Attempt** using the launch link embedded inside their training sandbox:
+
+* **Direct Recertification Provisioning:** Launching the recertification attempt initializes a brand-new, procedurally seeded examination sandbox (`4 Hours` for Tracks 1–2; `6 Hours` for Tracks 3–4) with fresh mathematical invariants (`M + I = 10.00 ± 0.01`, `1.0-Delta` threshold) and zero repeated test parameters.
+* **Strict Ephemeral & Zero-Retention Enforcement:** Both the 7-day training sandbox (upon expiration) and the recertification examination sandbox (immediately upon generation of the official Domain Assessment Report) are permanently purged—ensuring ICIT never retains proprietary developer source code.
+
 
 ---
 
